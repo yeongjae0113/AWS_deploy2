@@ -23,7 +23,7 @@ public class HomeController {
             log.warn("[" + envInfo + "] /aws/v2 이 호출. warn 로그 #####################################");
         }
 
-        return "<h1>AWS 배포 v2</h1>";
+        return "<h1>AWS 배포 v2 LAST</h1>";
     }
 
 
